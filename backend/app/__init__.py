@@ -1,0 +1,1 @@
+"""VehicleGPT Backend Application."""

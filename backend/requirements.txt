@@ -1,0 +1,21 @@
+# VehicleGPT Backend Dependencies
+# Sprint 1 - Backend Foundation + Deterministic EV Telemetry Simulator
+
+# Web framework
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+
+# Data validation
+pydantic==2.9.2
+pydantic-settings==2.5.2
+
+# Database
+sqlalchemy==2.0.35
+
+# Testing
+pytest==8.3.3
+pytest-asyncio==0.24.0
+httpx==0.27.2
+
+# Optional utilities
+python-dotenv==1.0.1
